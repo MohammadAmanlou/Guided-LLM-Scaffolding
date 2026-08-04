@@ -1,0 +1,66 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite the accompanying paper using the
+  preferred citation below.
+title: AIED Guided-LLM Learning Platform
+type: software
+abstract: >-
+  A research platform for studying no-LLM, unrestricted-LLM, and guided-LLM
+  learning conditions in undergraduate Probability and Statistics education.
+authors:
+  - family-names: Liviyan
+    given-names: Mehrad
+    affiliation: School of Electrical and Computer Engineering, University of Tehran
+  - family-names: Amanlou
+    given-names: Mohammad
+    affiliation: School of Electrical and Computer Engineering, University of Tehran
+  - family-names: Amou-Jafari
+    given-names: Yasaman
+    affiliation: School of Electrical and Computer Engineering, University of Tehran
+  - family-names: Boloukazari
+    given-names: Fatemeh
+    affiliation: School of Electrical and Computer Engineering, University of Tehran
+  - family-names: Bagheri
+    given-names: Fereshte
+    affiliation: School of Electrical and Computer Engineering, University of Tehran
+  - family-names: Khodaverdi Nadrabadi
+    given-names: Elahe
+    affiliation: School of Electrical and Computer Engineering, University of Tehran
+  - family-names: Sherafat
+    given-names: Shahab
+    affiliation: School of Electrical and Computer Engineering, University of Tehran
+license: MIT
+keywords:
+  - artificial intelligence in education
+  - large language models
+  - guided learning
+  - educational technology
+  - statistics education
+  - learning analytics
+preferred-citation:
+  type: conference-paper
+  title: >-
+    Beyond Access: Guided LLM Scaffolding for Independent Learning in
+    Undergraduate Statistics
+  authors:
+    - family-names: Amanlou
+      given-names: Mohammad
+    - family-names: Amou-Jafari
+      given-names: Yasaman
+    - family-names: Livian
+      given-names: Mehrad
+    - family-names: Boloukazari
+      given-names: Fatemeh
+    - family-names: Bagheri
+      given-names: Fereshte
+    - family-names: Khodaverdi Nadrabadi
+      given-names: Elahe
+    - family-names: Sherafat
+      given-names: Shahab
+    - family-names: Bahrak
+      given-names: Behnam
+  collection-title: >-
+    Proceedings of the 34th International Conference on Computers in Education
+  year: 2026
+  doi: 10.48550/arXiv.2606.01375
+  url: https://arxiv.org/abs/2606.01375

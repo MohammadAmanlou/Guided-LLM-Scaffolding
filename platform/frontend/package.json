@@ -1,0 +1,39 @@
+{
+  "name": "aied-frontend",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .js,.jsx",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "antd": "^5.26.4",
+    "axios": "^1.10.0",
+    "dayjs": "^1.11.13",
+    "dayjs-jalali": "^0.0.2",
+    "jalaliday": "^3.1.0",
+    "katex": "^0.16.22",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-katex": "^3.1.0",
+    "react-router-dom": "^7.6.3",
+    "tailwindcss-rtl": "^0.9.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.6.0",
+    "autoprefixer": "^10.4.14",
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "postcss": "^8.4.24",
+    "postcss-rtl": "^2.0.0",
+    "prettier": "^3.3.1",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.2.10"
+  }
+}

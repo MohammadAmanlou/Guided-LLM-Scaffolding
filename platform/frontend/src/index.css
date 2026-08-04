@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Vazir';
+  src: url('./assets/fonts/Vazirmatn-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: Vazirmatn, sans-serif;
+  direction: rtl;
+  text-align: right;
+}
+
+:root {
+  --user-bubble-color: #2563eb;
+  --ai-bubble-color: #10b981;
+}
+
+[data-theme='dark'] {
+  --user-bubble-color: #3b82f6;
+  --ai-bubble-color: #34d399;
+  background-color: #0f172a;
+  color: white;
+}
+
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+* {
+  font-family: 'Vazirmatn', sans-serif !important;
+}

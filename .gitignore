@@ -1,0 +1,55 @@
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Frontend
+node_modules/
+dist/
+.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime and generated application data
+chroma_db/
+mongo-data/
+uploads/
+exports/
+*.bson
+chats.json
+chats_dump/
+certbot/
+
+# Private research and participant data
+platform/backend/scripts/users.csv
+platform/backend/scripts/group_assigments.csv
+platform/backend/scripts/quizzes_attendance.json
+
+# Backup files
+*.save
+*.bak
+*~
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

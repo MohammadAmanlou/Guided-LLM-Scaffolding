@@ -1,0 +1,274 @@
+{
+    "1": {
+    "title": "مقدمه‌ای بر نظریه مجموعه‌ها",
+    "description": "آشنایی با مفاهیم نظریه مجموعه‌ها شامل مجموعه، زیرمجموعه، اجتماع، اشتراک، افراز و فضای احتمال.",
+    "embedUrl": "https://www.youtube.com/embed/Lqexyj6h5dQ",
+    "thumbnail": "https://img.youtube.com/vi/Lqexyj6h5dQ/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/Lqexyj6h5dQ",
+    "duration": "20:10"
+    },
+    "2": {
+    "title": "اصول موضوعه کولموگروف و قضایای پایه احتمال",
+    "description": "مروری بر اصول سه‌گانه کولموگروف شامل اصل غیرمنفی بودن، اصل جمع‌پذیری و اصل نامحدود، همراه با قضایای پایه احتمال نظیر مکمل پیشامد، قاعده شمول و عدم شمول، و روابط بین احتمالات مجموعه‌ها.",
+    "embedUrl": "https://www.youtube.com/embed/4I56VxviGFk",
+    "thumbnail": "https://img.youtube.com/vi/4I56VxviGFk/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/4I56VxviGFk",
+    "duration": "23:06"
+    },
+    "3": {
+    "title": "تعیین احتمال پیشامدها و تعاریف احتمال",
+    "description": "مروری بر روش‌های تعیین احتمال پیشامدها در مدل‌های تصادفی و معرفی تعاریف مختلف احتمال شامل تعریف ذهنی، بسامدی، حدی و کلاسیک، همراه با اصل ناکافی بودن دلیل.",
+    "embedUrl": "https://www.youtube.com/embed/oYv-NWknRHw",
+    "thumbnail": "https://img.youtube.com/vi/oYv-NWknRHw/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/oYv-NWknRHw",
+    "duration": "23:48"
+    },
+    "4": {
+    "title": "پارادوکس برتراند (Bertrand's Paradox)",
+    "description": "بررسی پارادوکس برتراند که جوزف برتراند در سال 1889 مطرح کرد. مسئله احتمال بزرگتر بودن طول یک وتر تصادفی از طول ضلع مثلث متساوی‌الاضلاع محاط در دایره با سه استراتژی مختلف بررسی شده و نشان داده می‌شود که بدون مشخص بودن روش انتخاب تصادفی، جواب یکتا وجود ندارد.",
+    "embedUrl": "https://www.youtube.com/embed/Alw4jyAJ_sk",
+    "thumbnail": "https://img.youtube.com/vi/Alw4jyAJ_sk/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/Alw4jyAJ_sk",
+    "duration": "13:56"
+    },
+    "6": {
+    "title": "مسئله گالیله و مسئله روز تولد",
+    "description": "بررسی مسئله گالیله درباره پرتاب سه تاس و مقایسه احتمال مجموع‌های 9 و 10، همراه با تحلیل مسئله معروف روز تولد و محاسبه احتمال داشتن روز تولد مشترک در یک گروه.",
+    "embedUrl": "https://www.youtube.com/embed/Tsav3Mclh2U",
+    "thumbnail": "https://img.youtube.com/vi/Tsav3Mclh2U/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/Tsav3Mclh2U",
+    "duration": "25:24"
+    },
+    "7": {
+    "title": "احتمال شرطی و قاعده زنجیره‌ای",
+    "description": "آشنایی با مفهوم احتمال شرطی و ارتباط آن با اصول موضوعه کولموگروف، همراه با تفسیر بسامدی، ویژگی‌های احتمال شرطی و معرفی قاعده زنجیره‌ای برای محاسبه احتمال وقایع متوالی.",
+    "embedUrl": "https://www.youtube.com/embed/DchSfSZ6c84",
+    "thumbnail": "https://img.youtube.com/vi/DchSfSZ6c84/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/DchSfSZ6c84",
+    "duration": "21:18"
+    },
+    "8": {
+    "title": "قضیه احتمال کل و قضیه بیز",
+    "description": "بررسی قضیه احتمال کل برای افراز فضای نمونه و معرفی قضیه بیز به عنوان ابزاری برای به‌روزرسانی باورها بر اساس شواهد. شامل تفسیر بیزی احتمال و نحوه ارتباط باور اولیه و نهایی به وقوع پیشامدها.",
+    "embedUrl": "https://www.youtube.com/embed/MCy8ol6Euxw",
+    "thumbnail": "https://img.youtube.com/vi/MCy8ol6Euxw/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/MCy8ol6Euxw",
+    "duration": "16:23"
+    },
+    "9": {
+    "title": "مثال‌هایی از قضیه بیز",
+    "description": "ارائه مثال‌های کاربردی از قضیه بیز برای درک بهتر نحوه به‌کارگیری این قضیه در حل مسائل احتمالاتی و تحلیل داده‌ها.",
+    "embedUrl": "https://www.youtube.com/embed/uAkRLNq2DqM",
+    "thumbnail": "https://img.youtube.com/vi/uAkRLNq2DqM/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/uAkRLNq2DqM",
+    "duration": "25:36"
+    },
+    "10": {
+    "title": "پیشامدهای مستقل در احتمال",
+    "description": "بررسی مفهوم استقلال پیشامدها و شرایط آن، شامل قضایای مربوط به استقلال دو پیشامد، سه پیشامد و n پیشامد و تفاوت استقلال دو به دو و استقلال کلی.",
+    "embedUrl": "https://www.youtube.com/embed/uEYQgkU99lc",
+    "thumbnail": "https://img.youtube.com/vi/uEYQgkU99lc/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/uEYQgkU99lc",
+    "duration": "21:36"
+    },
+    "11": {
+    "title": "آزمایش تکراری و آزمایش برنولی",
+    "description": "آشنایی با آزمایش‌های تکراری و برنولی، محاسبه احتمال پیشامدها در آزمایش‌های مستقل، فرمول احتمال باینومیال و تعمیم برنولی برای چند پیشامد مختلف.",
+    "embedUrl": "https://www.youtube.com/embed/NlfwzwpMKv8",
+    "thumbnail": "https://img.youtube.com/vi/NlfwzwpMKv8/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/NlfwzwpMKv8",
+    "duration": "24:58"
+    },
+    "12": {
+    "title": "نمونه‌هایی از کاربرد احتمالات",
+    "description": "بررسی کاربردهای احتمالات در دنیای واقعی شامل جدول درهم‌سازی در علوم کامپیوتر، قضیه میمون نامتناهی، مغالطه استقلال در دادگاه‌ها و مفهوم استقلال شرطی در تحلیل‌های آماری.",
+    "embedUrl": "https://www.youtube.com/embed/MvksE7NaNlg",
+    "thumbnail": "https://img.youtube.com/vi/MvksE7NaNlg/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/MvksE7NaNlg",
+    "duration": "23:50"
+    },
+    "13": {
+    "title": "احتمال تباین و کاربرد آن در رمزنگاری",
+    "description": "بررسی احتمال تباین دو عدد صحیح و اینکه نسبت به هم اول باشند. این موضوع با استفاده از نظریه اعداد و فرمول 6/π² تحلیل شده و کاربرد آن در رمزنگاری کلید عمومی توضیح داده می‌شود.",
+    "embedUrl": "https://www.youtube.com/embed/S-orl-51f3A",
+    "thumbnail": "https://img.youtube.com/vi/S-orl-51f3A/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/S-orl-51f3A",
+    "duration": "14:35"
+    },
+    "14": {
+    "title": "متغیر تصادفی (Random Variable)",
+    "description": "آشنایی با مفهوم متغیر تصادفی به عنوان تابعی از فضای نمونه به مجموعه اعداد حقیقی و نقش آن در مدل‌سازی مسائل احتمالاتی.",
+    "embedUrl": "https://www.youtube.com/embed/SMU260g_Tfc",
+    "thumbnail": "https://img.youtube.com/vi/SMU260g_Tfc/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/SMU260g_Tfc",
+    "duration": "18:01"
+    },
+    "15": {
+        "title": "تابع توزیع انباشته و امید ریاضی",
+        "description": "بررسی تابع توزیع انباشته (CDF) برای متغیرهای تصادفی گسسته و پیوسته، معرفی خواص اصلی CDF و محاسبه امید ریاضی به عنوان میانگین یا گشتاور اول متغیر تصادفی.",
+        "embedUrl": "https://www.youtube.com/embed/Ya7BFEYAmP4",
+        "thumbnail": "https://img.youtube.com/vi/Ya7BFEYAmP4/hqdefault.jpg",
+        "youtubeUrl": "https://youtu.be/Ya7BFEYAmP4",
+        "duration": "19:08"
+    },
+    "16": {
+    "title": "متغیر تصادفی شاخص و قضیه اساسی امید ریاضی",
+    "description": "بررسی مفهوم متغیر تصادفی شاخص و ارتباط آن با پیشامدها، معرفی قضیه اساسی امید ریاضی، گشتاورهای مرتبه n و محاسبه امید ریاضی با استفاده از تابع توزیع تجمعی (CDF).",
+    "embedUrl": "https://www.youtube.com/embed/Oqvzzy5gjwo",
+    "thumbnail": "https://img.youtube.com/vi/Oqvzzy5gjwo/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/Oqvzzy5gjwo",
+    "duration": "27:45"
+    },
+    "17": {
+    "title": "پارادوکس سن پترزبورگ (The St. Petersburg Paradox)",
+    "description": "بررسی پارادوکس سن پترزبورگ به عنوان یکی از مسائل کلاسیک نظریه احتمال و اقتصاد که به تحلیل رفتار افراد در مواجهه با ریسک و امید ریاضی نامتناهی می‌پردازد.",
+    "embedUrl": "https://www.youtube.com/embed/oYXI6eICc5U",
+    "thumbnail": "https://img.youtube.com/vi/oYXI6eICc5U/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/oYXI6eICc5U",
+    "duration": "9:34"
+    },
+    "18": {
+    "title": "تحلیل پیچیدگی الگوریتم کوییک‌سورت (Quicksort)",
+    "description": "بررسی پیچیدگی زمانی الگوریتم کوییک‌سورت در بهترین، بدترین و میانگین حالت‌ها و تحلیل رفتار آن بر اساس تقسیم‌بندی بازگشتی.",
+    "embedUrl": "https://www.youtube.com/embed/uHWJFwC0NH8",
+    "thumbnail": "https://img.youtube.com/vi/uHWJFwC0NH8/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/uHWJFwC0NH8",
+    "duration": "32:57"
+    },
+    "19": {
+    "title": "واریانس",
+    "description": "بررسی مفهوم واریانس و انحراف معیار به عنوان معیارهای پراکندگی، خواص واریانس، معرفی توزیع برنولی و توزیع دوجمله‌ای و رابطه بین این دو توزیع در مدل‌سازی آزمایش‌های تصادفی.",
+    "embedUrl": "https://www.youtube.com/embed/6N50uVDfgCc",
+    "thumbnail": "https://img.youtube.com/vi/6N50uVDfgCc/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/6N50uVDfgCc",
+    "duration": "21:15"
+    },
+    "20": {
+    "title": " توزیع دوجمله‌ای",
+    "description": "بررسی محاسبه میانگین و واریانس توزیع دوجمله‌ای با استفاده از امید ریاضی و اتحادهای جبری و معرفی تقریب پواسون برای حالاتی که n بسیار بزرگ و p بسیار کوچک است.",
+    "embedUrl": "https://www.youtube.com/embed/kBeYyFa7Dek",
+    "thumbnail": "https://img.youtube.com/vi/kBeYyFa7Dek/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/kBeYyFa7Dek",
+    "duration": "22:06"
+    },
+    "21": {
+    "title": "توزیع پواسون و کاربردهای آن",
+    "description": "بررسی توزیع پواسون به عنوان حالت حدی توزیع دوجمله‌ای، محاسبه میانگین و واریانس، معرفی کاربردهای واقعی مانند شمارش پیشامدهای نادر و ارائه روش‌های سریع محاسبه احتمالات و تقریب پواسون.",
+    "embedUrl": "https://www.youtube.com/embed/Dho3dOZnJEY",
+    "thumbnail": "https://img.youtube.com/vi/Dho3dOZnJEY/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/Dho3dOZnJEY",
+    "duration": "19:39"
+    },
+    "22": {
+    "title": "توزیع فوق هندسی و فرآیند پواسون",
+    "description": "بررسی فرآیند پواسون به عنوان مدل پیشامدهای نادر با نرخ ثابت و معرفی توزیع فوق هندسی برای نمونه‌برداری بدون جایگزینی، همراه با محاسبه میانگین و واریانس و کاربردهایی در کنترل کیفیت و بازی پوکر.",
+    "embedUrl": "https://www.youtube.com/embed/k2gQ-1Hzpwc",
+    "thumbnail": "https://img.youtube.com/vi/k2gQ-1Hzpwc/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/k2gQ-1Hzpwc",
+    "duration": "15:20"
+    },
+    "23": {
+    "title": "توزیع هندسی و ویژگی‌های آن",
+    "description": "معرفی توزیع هندسی به عنوان توزیع تعداد دفعات لازم برای موفقیت در آزمایش‌های برنولی، محاسبه میانگین و واریانس، و بررسی خاصیت بی‌حافظگی این توزیع.",
+    "embedUrl": "https://www.youtube.com/embed/QVjwOSZzYXE",
+    "thumbnail": "https://img.youtube.com/vi/QVjwOSZzYXE/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/QVjwOSZzYXE",
+    "duration": "19:32"
+    },
+    "24": {
+    "title": "توزیع دوجمله‌ای منفی (توزیع پاسکال)",
+    "description": "بررسی توزیع دوجمله‌ای منفی یا پاسکال به عنوان تعمیمی از توزیع هندسی، معرفی فرمول احتمال، محاسبه میانگین و واریانس و کاربردهای آن در حوزه‌هایی مانند بیمه، بازاریابی و فرآیندهای الکتروشیمیایی.",
+    "embedUrl": "https://www.youtube.com/embed/P7d3DeQjfiI",
+    "thumbnail": "https://img.youtube.com/vi/P7d3DeQjfiI/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/P7d3DeQjfiI",
+    "duration": "15:09"
+    },
+    "25": {
+    "title": "مسئله جعبه کبریت باناخ (Banach's Matchbox Problem)",
+    "description": "بررسی مسئله مشهور باناخ درباره جعبه‌های کبریت و احتمال خالی شدن یکی از جعبه‌ها پیش از دیگری. این مسئله نمونه‌ای از کاربرد روش‌های احتمالاتی در مدل‌سازی مسائل روزمره است.",
+    "embedUrl": "https://www.youtube.com/embed/q4SftEj731Y",
+    "thumbnail": "https://img.youtube.com/vi/q4SftEj731Y/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/q4SftEj731Y",
+    "duration": "15:17"
+    },
+    "26": {
+    "title": "توزیع‌های پیوسته و تابع چگالی احتمال",
+    "description": "آشنایی با متغیرهای تصادفی پیوسته، گسسته و مخلوط، معرفی تابع توزیع انباشته (CDF) و تابع چگالی احتمال (PDF)، و بررسی خواص اصلی آن‌ها.",
+    "embedUrl": "https://www.youtube.com/embed/z-HIDta6eeQ",
+    "thumbnail": "https://img.youtube.com/vi/z-HIDta6eeQ/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/z-HIDta6eeQ",
+    "duration": "14:53"
+    },
+    "27": {
+    "title": "تابع چگالی احتمال و امید ریاضی",
+    "description": "توضیح تابع چگالی احتمال (PDF) برای متغیرهای تصادفی پیوسته و گسسته با استفاده از تابع دلتا، و مرور فرمول‌های امید ریاضی و واریانس.",
+    "embedUrl": "https://www.youtube.com/embed/lBtjW1axo9g",
+    "thumbnail": "https://img.youtube.com/vi/lBtjW1axo9g/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/lBtjW1axo9g",
+    "duration": "13:09"
+    },
+    "28": {
+    "title": "توزیع یکنواخت پیوسته",
+    "description": "آشنایی با توزیع یکنواخت پیوسته، فرمول تابع چگالی احتمال (PDF)، محاسبه امید ریاضی و واریانس، و کاربردهای آن در مدل‌سازی فرآیندهای تصادفی.",
+    "embedUrl": "https://www.youtube.com/embed/gO_VmbldI3k",
+    "thumbnail": "https://img.youtube.com/vi/gO_VmbldI3k/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/gO_VmbldI3k",
+    "duration": "18:21"
+    },
+    "29": {
+    "title": "توزیع نرمال (Normal Distribution)",
+    "description": "آشنایی با توزیع نرمال یا گاوسی، تابع چگالی احتمال، تابع توزیع تجمعی، نرمال استاندارد و تبدیل خطی توزیع نرمال.",
+    "embedUrl": "https://www.youtube.com/embed/4MxmWy5XTUI",
+    "thumbnail": "https://img.youtube.com/vi/4MxmWy5XTUI/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/4MxmWy5XTUI",
+    "duration": "20:01"
+    },
+    "30": {
+    "title": "تقریب توزیع دوجمله‌ای با توزیع نرمال",
+    "description": "آشنایی با روش‌های تقریب توزیع دوجمله‌ای با توزیع نرمال، قضیه دموآور-لاپلاس، و تصحیح پیوستگی در تقریب نرمال.",
+    "embedUrl": "https://www.youtube.com/embed/XueNcmqGgBc",
+    "thumbnail": "https://img.youtube.com/vi/XueNcmqGgBc/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/XueNcmqGgBc",
+    "duration": "21:06"
+    },
+    "31": {
+    "title": "توزیع نمایی (Exponential Distribution)",
+    "description": "بررسی توزیع نمایی، خاصیت بی‌حافظگی، ارتباط با فرآیند پواسون و محاسبه گشتاورها و واریانس.",
+    "embedUrl": "https://www.youtube.com/embed/XIdOmoj3xdc",
+    "thumbnail": "https://img.youtube.com/vi/XIdOmoj3xdc/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/XIdOmoj3xdc",
+    "duration": "15:04"
+    },
+    "32": {
+    "title": "Percentiles (صدک‌ها)",
+    "description": "بررسی مفهوم صدک‌ها (Percentiles)، نحوه محاسبه آن‌ها، کاربرد در توصیف داده‌ها و تحلیل آماری.",
+    "embedUrl": "https://www.youtube.com/embed/22yR5w66jWo",
+    "thumbnail": "https://img.youtube.com/vi/22yR5w66jWo/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/22yR5w66jWo",
+    "duration": "15:32"
+    },
+    "33": {
+    "title": "توابعی از متغیرهای تصادفی",
+    "description": "بررسی روش‌های محاسبه و تحلیل توابعی از متغیرهای تصادفی و کاربرد آن‌ها در مدل‌سازی آماری.",
+    "embedUrl": "https://www.youtube.com/embed/t09SR6CGQfA",
+    "thumbnail": "https://img.youtube.com/vi/t09SR6CGQfA/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/t09SR6CGQfA",
+    "duration": "15:15"
+    },
+    "34": {
+    "title": "توزیع مشترک",
+    "description": "آشنایی با توزیع مشترک دو متغیر تصادفی، تعریف تابع احتمال مشترک، تابع توزیع انباشته مشترک و محاسبه توابع حاشیه‌ای.",
+    "embedUrl": "https://www.youtube.com/embed/NcWGqgjK6Os",
+    "thumbnail": "https://img.youtube.com/vi/NcWGqgjK6Os/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/NcWGqgjK6Os",
+    "duration": "21:04"
+    },
+    "35": {
+    "title": "تابع چگالی احتمال مشترک",
+    "description": "بررسی تابع چگالی احتمال مشترک (Joint PDF) برای متغیرهای تصادفی پیوسته، نحوه محاسبه احتمال نواحی، توابع حاشیه‌ای و معرفی توزیع چندجمله‌ای.",
+    "embedUrl": "https://www.youtube.com/embed/fM6MN0C1gjI",
+    "thumbnail": "https://img.youtube.com/vi/fM6MN0C1gjI/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/fM6MN0C1gjI",
+    "duration": "24:00"
+    }
+}
