@@ -177,7 +177,7 @@ Runtime configuration is read from `platform/backend/.env`.
 | `JWT_REFRESH_TOKEN_EXPIRES` | No | `604800` | Refresh-token lifetime in seconds |
 | `LLM_BASE_URL` | Yes | `https://api.avalai.ir/v1` | Base URL of the OpenAI-compatible API |
 | `LLM_API_KEY` | Yes | Empty | Provider API credential |
-| `LLM_MODEL` | No | `gpt-4o` | Main conversational model |
+| `LLM_MODEL` | No | `gpt-4o-mini` | Main conversational model |
 | `LLM_SUMMARY_MODEL` | No | `gpt-4o-mini` | Conversation-summary model |
 | `LLM_EMBEDDING_MODEL` | No | `text-embedding-3-large` | Embedding model used for retrieval |
 | `AIED_REGISTER_URL` | No | Empty | Optional registration URL used by `create_user.py` |

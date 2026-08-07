@@ -6,7 +6,7 @@ from openai import OpenAI
 LLM_BASE_URL = os.getenv("LLM_BASE_URL", "https://api.avalai.ir/v1")
 LLM_API_KEY = os.getenv("LLM_API_KEY")
 
-OPENAI_MODEL = os.getenv("LLM_MODEL", "gpt-4o")
+OPENAI_MODEL = os.getenv("LLM_MODEL", "gpt-4o-mini")
 OPENAI_SUMMARY_MODEL = os.getenv("LLM_SUMMARY_MODEL", "gpt-4o-mini")
 OPENAI_EMBEDDING_MODEL = os.getenv(
     "LLM_EMBEDDING_MODEL",
