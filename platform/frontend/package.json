@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "antd": "^5.26.4",
-    "axios": "^1.10.0",
+    "axios": "^1.18.0",
     "dayjs": "^1.11.13",
     "dayjs-jalali": "^0.0.2",
     "jalaliday": "^3.1.0",
