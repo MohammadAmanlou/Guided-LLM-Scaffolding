@@ -8,12 +8,13 @@
 
 > What approaches can be used for a committee-selection problem in which two specific people cannot serve together? Name the strategies and explain which may be simpler; do not calculate the final answer.
 
-* **Why productive:** The student asks for strategy selection and reasoning while preserving the actual calculation.
+* **Why productive:** The student asks for strategy selection and reasoning while preserving the actual problem-solving work.
 
 **Unproductive**
+
 > Solve this committee problem and return only the final probability.
 
-* **Why unproductive:** The interaction is reduced to answer retrieval.
+* **Why unproductive:** The interaction is reduced to obtaining the final answer rather than understanding the reasoning process.
 
 ---
 
@@ -23,12 +24,13 @@
 
 > Why is the complement method simpler here? Explain the intuition for this particular problem.
 
-* **Why productive:** The student asks why a method works, not merely how to execute it.
+* **Why productive:** The student asks for conceptual understanding and intuition rather than simply requesting an answer.
 
 **Unproductive**
+
 > Which formula should I paste into my answer?
 
-* **Why unproductive:** The student asks directly for the answer.
+* **Why unproductive:** The student asks for a formula to use directly rather than seeking conceptual understanding.
 
 ---
 
@@ -38,54 +40,58 @@
 
 > I decided to use the complement method. My next step is to count the invalid cases. How should I count committees that contain both specific members? Give me a hint.
 
-* **Why productive:** The student asks for the next step of their approach instead of the whole solution.
+* **Why productive:** The student asks for limited, incremental assistance that allows them to continue solving the problem themselves.
 
 **Unproductive**
+
 > Give me every step and the final solution in one response.
 
-* **Why unproductive:** Step-by-step is not hint seeking when the student asks the model to perform all steps.
+* **Why unproductive:** The model is asked to perform the complete solution rather than provide limited assistance that preserves the student's problem-solving role.
 
 ---
 
-### Rule 4: Check your reasoning
+### Rule 4: Active learning
 
 **Productive**
 
-> I want to calculate it directly. For the case where Arash is in but Babak is not, I choose Arash, exclude Babak, and choose 4 people from the remaining 10, which is C(10,4). I do the same for the opposite case. For the case where neither is in, I choose 5 from 10: C(10,5). Finally, I sum these three. Is my logic for counting and summing these parts correct?
+> Create a new problem with a similar negative constraint between two members, but change the context to arranging books on a shelf. Let me solve it first, and then give me feedback on my approach.
 
-* **Why productive:** The student explicitly shares their step-by-step logic and asks the AI to validate the reasoning process, not just provide an answer.
+* **Why productive:** The student uses the LLM to generate additional practice and then actively applies the learned idea in a new context.
 
 **Unproductive**
-> My final answer is 792. Tell me if I am right.
 
-* **Why unproductive:** The student only asks for verification of the final numerical answer without providing the steps they took to get there.
+> Generate a similar problem about arranging books and immediately give me the complete solution so I can read it.
+
+* **Why unproductive:** Although the prompt requests additional practice, asking for the solution immediately reduces the opportunity for active retrieval and application.
 
 ---
 
-### Rule 5: Active learning
+### Rule 5: Verification and critical evaluation
 
 **Productive**
 
-> Create a problem with a similar structure (a negative constraint between two members), but this time about arranging books on a shelf.
+> I calculated C(12,5) and got a different result from yours. Can we check the calculation and review the reasoning behind the counting strategy? My textbook uses a different approach, so I want to understand which assumptions are correct.
 
-* **Why productive:** The student uses the AI to generate new practice material to test their mastery and transfer their learning to a different context.
+* **Why productive:** The student questions the LLM's output, checks the calculation, and compares its reasoning with course material instead of accepting the response uncritically.
 
 **Unproductive**
-> Generate a similar problem about arranging books and write out the step-by-step solution for me to read.
 
-* **Why unproductive:** The student bypasses their own effort by asking the AI to solve the extra practice problem on their behalf.
+> Your answer looks reasonable, so I'll use it without checking the calculation.
+
+* **Why unproductive:** The student accepts the model's output without verification or critical evaluation.
 
 ---
 
-### Rule 6: Validation and critical thinking
+### Rule 6: Ethical and no-help use
 
 **Productive**
 
-> The calculation you provided for C(12,5) doesn't match what I got on my calculator. Also, the strategy you suggested differs from my textbook's example. Can we review the logic?
+> I'm practicing this problem and want to understand the method myself. Please give me a hint rather than the final answer.
 
-* **Why productive:** The student treats the model as fallible, actively checks calculations manually, and compares the AI's method against reliable course materials.
+* **Why productive:** The student avoids direct answer-seeking and uses the LLM for learning rather than requesting an answer for direct submission.
 
 **Unproductive**
-> [Copy-pasting an exact graded quiz question] What is the answer to this?
 
-* **Why unproductive:** The student inputs a graded question verbatim to get a direct answer, violating ethical use guidelines and failing to engage critically with the material.
+> [Copy-pasting an exact graded quiz question] What is the answer to this? I need to submit it.
+
+* **Why unproductive:** The student seeks a direct answer for graded work, which conflicts with the study's no-help assessment rules.

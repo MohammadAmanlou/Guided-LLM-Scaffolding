@@ -1,0 +1,6 @@
+# Participant-level data are private and must not be committed.
+data_private/
+analysis_outputs/
+*.pyc
+__pycache__/
+.DS_Store

@@ -17,9 +17,15 @@ Probability and Statistics program comparing no-LLM, unrestricted-LLM, and
 guided-LLM conditions.
 
 > [!IMPORTANT]
-> This repository contains the research platform implementation. It does **not**
-> contain participant records, chat transcripts, study-group assignments, the
-> participant-level dataset, or the complete statistical-analysis pipeline.
+> This repository contains the research platform implementation and selected
+> reproducibility materials. It does **not** contain full/raw chat transcripts,
+> participant-level datasets, identifiable participant records, or study-group
+> assignment files.
+> Selected de-identified interaction excerpts are provided in
+> `reproducibility/sample_transcripts.md` for reproducibility.
+> The repository also provides the analysis code used to implement the reported
+> statistical procedures, while the participant-level inputs required to execute
+> those analyses are not publicly released.
 
 ## Paper and conference
 
@@ -232,21 +238,44 @@ deliberately excluded, and some seed scripts replace existing collections. They
 are not required for the Quick Start and should be reviewed before use against
 any non-disposable database.
 
-## Research data and privacy
 
-The public repository excludes all participant-level or deployment-generated
-records, including:
+## Reproducibility Materials
 
-- student account exports and group assignments;
+The repository includes selected materials accompanying the paper to document
+the guided-use intervention, transcript coding, representative interactions,
+and study configuration.
+
+| Material | Description |
+|---|---|
+| [`reproducibility/guided_use_protocol.md`](reproducibility/guided_use_protocol.md) | Six-rule guided-use intervention and student-facing interaction protocol. |
+| [`reproducibility/student_guide.pdf`](reproducibility/student_guide.pdf) | Student-facing guide used to communicate the guided-use rules. |
+| [`reproducibility/instructions.pptx`](reproducibility/instructions.pptx) | Orientation slides introducing the guided-use framework. |
+| [`reproducibility/prompt_examples.md`](reproducibility/prompt_examples.md) | Productive and unproductive prompt examples for the six rules. |
+| [`reproducibility/coding_codebook.md`](reproducibility/coding_codebook.md) | Human transcript-coding criteria and coding procedure. |
+| [`reproducibility/sample_transcripts.md`](reproducibility/sample_transcripts.md) | Selected de-identified interaction excerpts with transcript-level coding examples. |
+| [`reproducibility/study_configuration.env.example`](reproducibility/study_configuration.env.example) | Model and deployment configuration used for the study. |
+| [`DATA_AVAILABILITY.md`](DATA_AVAILABILITY.md) | Public data/material availability and privacy statement. |
+| [`reproducibility/analysis/`](reproducibility/analysis/) | Analysis code, manuscript-to-script mapping, statistical conventions, and private-data templates used for the reported analyses. |
+
+## Research Data and Privacy
+
+The public repository does not release full/raw participant interaction or
+assessment data. Specifically, the following are not publicly released:
+
+- full raw chat transcripts;
+- participant-level assessment data;
+- student identifiers and account records;
+- original study-group assignment files;
 - attendance and assessment exports;
-- chat transcripts and database dumps;
 - uploaded answer sheets and generated exports;
 - local environment files, credentials, and TLS material.
 
-The application should be configured with synthetic accounts and a fresh
-database for demonstrations. Do not publish data collected from learners without
-the applicable consent, ethics approval, institutional policy review, and
-de-identification process.
+Selected de-identified interaction excerpts are provided separately in
+[`reproducibility/sample_transcripts.md`](reproducibility/sample_transcripts.md)
+for reproducibility. These excerpts do not constitute the full raw chat dataset.
+
+See [`DATA_AVAILABILITY.md`](DATA_AVAILABILITY.md) for the repository's complete
+data-availability statement.
 
 ## Verification status
 
@@ -276,8 +305,9 @@ environment-specific integration check.
 - The repository does not yet include a comprehensive automated test suite.
 - A fresh deployment contains no original study participants or collected study
   records.
-- The complete data-processing and statistical-analysis workflow for the paper
-  is not part of this repository.
+- The participant-level inputs required to execute the complete statistical
+  analysis are not publicly released because they contain learner-level study
+  records.
 - Public Internet deployment requires additional authorization review,
   transport security, rate limiting, monitoring, backup, and privacy controls;
   see [SECURITY.md](SECURITY.md).
@@ -291,7 +321,14 @@ also exposes structured software and paper citation metadata from
 ```bibtex
 @article{amanlou2026beyond,
   title   = {Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics},
-  author  = {Mohammad Amanlou,  and Yasaman Amou-Jafari,  and Mehrad Liviyan,  and Fatemeh Boloukazari,  and Fereshte Bagheri,  and Elahe Khodaverdi Nadrabadi,  and Shahab Sherafat,  and Dr.Behnam Bahrak, },
+  author  = {Amanlou, Mohammad and
+             Amou-Jafari, Yasaman and
+             Liviyan, Mehrad and
+             Boloukazari, Fatemeh and
+             Bagheri, Fereshte and
+             Khodaverdi Nadrabadi, Elahe and
+             Sherafat, Shahab and
+             Bahrak, Behnam},
   year    = {2026},
   journal = {arXiv preprint arXiv:2606.01375},
   doi     = {10.48550/arXiv.2606.01375}
