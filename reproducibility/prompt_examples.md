@@ -86,9 +86,9 @@
 
 **Productive**
 
-> I'm practicing this problem and want to understand the method myself. Please give me a hint rather than the final answer.
+> This is a practice activity, and I do not want an answer that I could directly copy into my submission. Please help me understand the method while leaving the actual solution for me to complete.
 
-* **Why productive:** The student avoids direct answer-seeking and uses the LLM for learning rather than requesting an answer for direct submission.
+* **Why productive:** The student explicitly avoids direct-copy answer seeking and preserves responsibility for completing the work independently.
 
 **Unproductive**
 
