@@ -215,6 +215,8 @@ by the coding target.
         * **Negative Example:**
           "Give me the answer to this quiz question so I can submit it."
 
+    A generic request for a hint or for withholding the final answer is not, by itself, sufficient evidence for Rule 6 unless the transcript also establishes direct-copy avoidance,     submission-related restraint, or compliance with a no-help assessment requirement.
+
 ---
 
 ## 3. Rule Summary
