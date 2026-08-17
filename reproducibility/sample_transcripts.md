@@ -274,8 +274,6 @@ These labels describe the **observed interaction pattern represented by the codi
 | **R5 — Verification and critical evaluation** | NO | NO | NO | **NO** | The full transcript does not contain clear student-initiated checking, challenge, or cross-validation of an assistant output. |
 | **R6 — Ethical and no-help use** | NO | NO | NO | **NO** | Although Turn 1 is process-oriented, the annotators did not treat a generic “do not give me the final answer” request by itself as sufficient evidence of the distinct ethical/no-help construct. No explicit direct-copy/submission or prohibited-assessment context was established. |
 
-> **Coding correction note:** An earlier draft of this public sample file incorrectly displayed R2 for Example B as NO/NO/NO. The corrected coding record is YES/YES/YES; the corresponding rule-following score is therefore **3/6**.
-
 **Transcript-level rationale:** The student clearly seeks process-oriented help and a conceptual explanation, but the full transcript does not provide sufficient evidence for active-learning, critical-evaluation, or ethical/no-help coding under the annotators' applied criteria.
 
 ---
