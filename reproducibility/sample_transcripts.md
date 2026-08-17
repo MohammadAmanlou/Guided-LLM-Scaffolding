@@ -213,8 +213,7 @@ These labels describe the **observed interaction pattern represented by the codi
 | **R5 — Verification and critical evaluation** | YES | YES | YES | **YES** | Turn 33 explicitly challenges the assistant's earlier method as incomplete and asks for a different counting-based analysis. |
 | **R6 — Ethical and no-help use** | YES | YES | NO | **YES** | Turns 4 and 46 provide observable evidence that the student deliberately avoids direct-answer use during practice and preserves their own solution process. The majority-vote R6 label is based on the full transcript reviewed by the annotators. The selected public excerpt shows the student repeatedly preserving their own solution process, but the excerpt alone should not be treated as sufficient evidence to independently recode R6. One rater judged this evidence insufficient, producing the observed 2–1 vote. |
 
-**Transcript-level rationale:** This case shows explanation-seeking, limited-help requests, active self-solving, and explicit challenge of a flawed assistant response. The behavior is therefore consistent with a high rule-following profile.
-
+**Transcript-level rationale:** This case shows explanation-seeking, limited-help requests, active self-solving, and explicit challenge of a flawed assistant response. The displayed excerpt illustrates several components of the high rule-following profile; final rule labels reflect coding of the full transcript rather than the excerpt alone.
 ---
 
 # Example B — Partial observed compliance
