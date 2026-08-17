@@ -392,10 +392,10 @@ These labels describe the **observed interaction pattern represented by the codi
 | **R2 — Concept tutoring** | YES | YES | YES | **YES** | Turn 1 asks for the meaning of the CDF rather than a numerical answer. |
 | **R3 — Stepwise hints** | YES | YES | YES | **YES** | Turn 3 requests help with a specific intermediate step rather than introducing the problem as a request for an immediate complete answer. |
 | **R4 — Active learning** | NO | NO | NO | **NO** | The full transcript does not provide clear evidence of additional practice generation, self-quizzing, retrieval practice, or a distinct study activity. |
-| **R5 — Verification and critical evaluation** | YES | YES | YES | **YES** | Across Turns 6–9, the student repeatedly inspects and corrects the mathematical expression used in the ongoing calculation rather than passively accepting the running solution. |
+| **R5 — Verification and critical evaluation** | YES | YES | YES | **YES** | The majority-vote R5 label reflects coding of the full transcript. The selected excerpt shows repeated inspection and correction of the ongoing mathematical setup, but these displayed turns alone should not be treated as sufficient evidence to independently recode R5. |
 | **R6 — Ethical and no-help use** | NO | NO | NO | **NO** | The full transcript does not provide sufficient evidence of direct-copy avoidance, submission-related restraint, or compliance with a no-help assessment context. |
 
-**Transcript-level rationale:** The student seeks conceptual clarification, starts from an independently chosen method, requests help at a specific bottleneck, and actively checks the evolving mathematical setup. No distinct active-learning or ethical/no-help evidence was coded.
+**Transcript-level rationale:** The student seeks conceptual clarification, starts from an independently chosen method, and requests help at a specific bottleneck. The full-transcript coding also yielded a positive R5 label; the shortened public excerpt is illustrative and does not independently establish every coded rule. No distinct active-learning or ethical/no-help evidence was coded.
 
 ---
 
