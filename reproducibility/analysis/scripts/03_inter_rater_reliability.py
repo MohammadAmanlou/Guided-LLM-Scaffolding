@@ -7,8 +7,7 @@ ANALYSIS_ROOT = Path(__file__).resolve().parents[1]
 if str(ANALYSIS_ROOT) not in sys.path:
     sys.path.insert(0, str(ANALYSIS_ROOT))
 
-from icce_analysis.flow_balance import analyze_flow_and_balance
-
+from icce_analysis.irr import analyze_irr
 
 def main():
     parser = argparse.ArgumentParser()
